@@ -1,5 +1,5 @@
 # Sneakers-Sales-Dataset
- ### pluracode mock project
+ ### pluralcode mock project
 Analysing the Sneakers Sales Dataset using formulas, functions, conditional formattings, pivottable and charts for visualization.
  ### problem statements 
 - To identify the top performing products and sales method.
