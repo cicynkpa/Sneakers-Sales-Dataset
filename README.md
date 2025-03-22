@@ -29,6 +29,7 @@ Excel (pivot table, Charts, Dashboard).
 <img width="897" alt="Pivot1" src="https://github.com/user-attachments/assets/ff6cc63a-0a51-449c-942e-9729158af092" />
 <img width="938" alt="PIVOT2" src="https://github.com/user-attachments/assets/6894c7b3-dd64-45a8-88ff-fa7a9c4a9742" />
 <img width="940" alt="PIVOT3" src="https://github.com/user-attachments/assets/87308690-49da-44d9-ad58-d4b0cff8cbea" />
+
  ### Conclusion and recommendation
  - Nigeria and Ghana should be the primary focus for products sales as there is more units sales in both countries compared to the others.
  - Both In-Store and Online sales method seems to have good sales peeformance, although In-Store has a little significant increase in sales compared to online sales, i recommend still focusing on both sales method.
