@@ -2,10 +2,10 @@
  ### pluracode mock project
 Analysing the Sneakers Sales Dataset using formulas, functions, conditional formattings, pivottable and charts for visualization.
  ### problem statements 
-- To dentify the top performing products and sales method.
-- To Identify region with the highest sales performance.
+- To identify the top performing products and sales method.
+- To identify region with the highest sales performance.
 - To make Data-Driven Recommendations: Based on the findings, develop recommendations for marketing, product development, and distribution strategies to maximize and improve sales.
-- To Show Total sale, Units sold and Operating Profits as cards. Create Slicers for Sales method, Product and Country.
+- To show Total sales, Units sold and Operating Profits as cards. Create Slicers for Sales method, Product and Country.
  ### tools used
 Excel (pivot table, Charts, Dashboard).
  ### Data source
